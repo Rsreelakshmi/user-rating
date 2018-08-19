@@ -1,0 +1,17 @@
+#profilename{
+    font-weight: bold;
+  }
+
+#profiledetail{
+    margin-left: 8px;
+}
+
+.load-more-options{
+    width: 100%;
+    text-align: right;
+}
+
+.rate-skill{
+    width: 100%;
+    text-align: right;
+}

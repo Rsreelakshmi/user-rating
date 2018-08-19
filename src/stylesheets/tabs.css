@@ -1,0 +1,44 @@
+.taboption{
+    width: 50%
+}
+
+#teammember{
+    padding: 2px;
+    box-shadow: none;
+}
+
+.back svg,h3{
+    vertical-align: middle;
+}
+
+#backtext{
+    display: inline-block;
+}
+
+#tabs{
+    box-shadow: none;
+}
+
+.skilldetail{
+    padding-left: 60px;
+}
+
+.rateicons{
+    padding-top: 42px;
+}
+
+.rateicon{
+    padding: 20px;
+}
+
+.skillname{
+    margin-top: 30px;
+}
+
+.skillpic{
+    float: left;
+}
+
+.commentscard{
+    height: 200px;
+}
